@@ -12,7 +12,7 @@ import cse
 
 client = cse.Engine("Your API Key") # create the Search client (uses Google by default!)
 
-results = await client.search("Python", safesearch=False) # returns a list of async_cse.Result objects
+results = await client.search("Python", safesearch=False) # returns a list of cse.Result objects
 
 print(results[0].title, results[0].description, results[0].url, results[0].image_url) # Title, snippet, URL, and Image URL
 
