@@ -36,6 +36,6 @@ cse.Engine("Your API Key", engine_id="015786823554162166929:mywctwj8es4")
 ```
 SafeSearch can also be turned off by setting `safesearch=False` when using the `search()` method.
 # Getting an API key
-You can get an API key by going [here](https://developers.google.com/custom-search/v1/overview) and scrolling down to the **API key** section.
+You can get an API key by going [here](https://developers.google.com/custom-search/v1/overview#api-key) and scrolling down to the **API key** section.
 
-![API key](https://i.imgur.com/pHXFiI8.png "Getting an API key")
+<a href=https://developers.google.com/custom-search/v1/overview#api-key target=_blank>![API key](https://i.imgur.com/pHXFiI8.png "Getting an API key")</a>
