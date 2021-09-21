@@ -29,7 +29,7 @@ __version__ = "1.1.0"
 __author__ = "Hype3808"
 __copyright__ = "Copyright 2021 {}".format(__author__)
 
-from .search import Engine
+from .cse import Engine
 
 async def get_version():
     return __version__
