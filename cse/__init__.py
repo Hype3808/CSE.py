@@ -25,7 +25,7 @@ SOFTWARE.
 __title__ = "cse.py"
 __summary__ = "An asynchronous Google Search Engine API wrapper"
 __uri__ = "https://github.com/CodeWithSwastik/prsaw"
-__version__ = "1.1.0"
+__version__ = "1.1.1"
 __author__ = "Hype3808"
 __copyright__ = "Copyright 2021 {}".format(__author__)
 
