@@ -1,7 +1,7 @@
 """
 MIT License
 
-Copyright (c) 2018 Chris Rrapi
+Copyright (c) 2021 Hype3808
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -48,7 +48,7 @@ GOOGLE_FAVICON = "https://image.flaticon.com/teams/slug/google.jpg"
 class Result:
     """
     Represents a result from a search query.
-    You do not make these on your own, you usually get them from async_cse.Search.search.
+    You do not make these on your own, you usually get them from cse.Search.search.
     """
 
     def __init__(self, title, description, url, image_url):
