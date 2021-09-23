@@ -58,12 +58,12 @@ class Result:
         self.image_url = image_url
 
     def __str__(self):
-        return "<async_cse.search.Result object, url: {}, image_url: {}>".format(
+        return "<cse.search.Result object, url: {}, image_url: {}>".format(
             self.url, self.image_url
         )
 
     def __repr__(self):
-        return "<async_cse.search.Result object, url: {}, image_url: {}>".format(
+        return "<cse.search.Result object, url: {}, image_url: {}>".format(
             self.url, self.image_url
         )
 
@@ -117,10 +117,10 @@ class Engine:
         self.session = session or None
 
     def __repr__(self):
-        return "<async_cse.search.Search object, engine_id: {}>".format(self.engine_id)
+        return "<cse.search.Search object, engine_id: {}>".format(self.engine_id)
 
     def __str__(self):
-        return "<async_cse.search.Search object, engine_id: {}>".format(self.engine_id)
+        return "<cse.search.Search object, engine_id: {}>".format(self.engine_id)
 
     async def close(self):
         """Properly close the client."""
