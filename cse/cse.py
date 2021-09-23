@@ -27,7 +27,7 @@ import aiohttp
 
 
 class CSEBaseException(Exception):
-    """Base class for all async_cse Exceptions."""
+    """Base class for all cse Exceptions."""
 
 
 class NoResults(CSEBaseException):
