@@ -41,5 +41,5 @@ You can get an API key by going [here](https://developers.google.com/custom-sear
 <a href=https://developers.google.com/custom-search/v1/overview#api_key target=_blank>![Get API key](https://i.imgur.com/pHXFiI8.png)</a>
 
 # Links
-[Documention](https://hype3808.github.io/cse.py/)
-[PyPI](https://pypi.org/project/cse.py/)
+- [Documention](https://hype3808.github.io/cse.py/)
+- [PyPI](https://pypi.org/project/cse.py/)
