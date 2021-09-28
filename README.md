@@ -39,3 +39,7 @@ SafeSearch can also be turned off by setting `safesearch=False` when using the `
 You can get an API key by going [here](https://developers.google.com/custom-search/v1/overview#api_key) and scrolling down to the **API key** section.
 
 <a href=https://developers.google.com/custom-search/v1/overview#api_key target=_blank>![Get API key](https://i.imgur.com/pHXFiI8.png)</a>
+
+# Links
+[Documention](https://hype3808.github.io/cse.py/)
+[PyPI](https://pypi.org/project/cse.py/)
