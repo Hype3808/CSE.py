@@ -5,7 +5,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="cse.py",
-    version="1.1.2",
+    version="1.1.3",
     description="An asynchronous Google Search Engine API wrapper",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
